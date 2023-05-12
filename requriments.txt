@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+nltk
+numpy
+scikit-learn
+sentence-transformers
+tensorflow_text
+pandas
+tensorflow
